@@ -1,2 +1,4 @@
 # Philosophers
- Проект Школы 21. Multithreading with dining philosophers' problem
+ Проект Школы 21. Multithreading with dining philosophers' problem.  
+   
+ Цель проекта - решить проблему обедающих философов, используя потоки (для каждого философа) внутри процесса. Также для "вилок" необходимо использовать mutex.
